@@ -37,4 +37,5 @@ public static void main(String[] args) throws Exception {
             sc. addStudent (plan.get(i));
         }
         sc.print();
+//注释一
 }
