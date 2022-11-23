@@ -36,7 +36,4 @@ public static void main(String[] args) throws Exception {
         for (int i = 0; i < plan.size(); i++) {
             sc. addStudent (plan.get(i));
         }
-        sc.print();
-//注释一
-//a
-}
+        sc.print();}
